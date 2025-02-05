@@ -1,0 +1,17 @@
+
+      header {
+        text-align: center;
+      }
+      header p {
+        color: #367576;
+        background-color: lightyellow;
+      }
+      .image {
+        text-align: center;
+      }
+      .feature {
+        color: red;
+      }
+      .feature a {
+        color: #367576;
+      }
